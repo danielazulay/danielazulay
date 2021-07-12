@@ -1,6 +1,7 @@
-### Hi there 👋, My name is Daniel Azulay
+### Hi there 👋, My name is Daniel Azulay![](https://www.codewars.com/users/danielazulay/badges/micro)
 
-![](https://www.codewars.com/users/danielazulay/badges/micro)
+
+
 <!--
 **danielazulay/danielazulay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
